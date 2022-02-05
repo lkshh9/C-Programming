@@ -3,6 +3,6 @@
 void main()
 {
 clrscr();
-printf("my name is harshit bansal");
+printf("My Name Is Aditya Vijay");
 getch();
 }
