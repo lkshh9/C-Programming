@@ -16,4 +16,4 @@ The repository is a collection of open-source implementation of a variety of pro
 ## contribution
 This repository is opened for your contribution. let's build it a large collection of c programmatic and algorithmic codes. More to more contributions make it accessible to others and make you a better programmer. So let's do it. 
 
-This repo helps you to access all the major programms you would required to learn the basics of C.
+This repo helps you to access all the major programs you would required to learn the basics of C.
